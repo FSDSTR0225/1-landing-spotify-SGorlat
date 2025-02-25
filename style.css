@@ -159,7 +159,7 @@ h1 span {
 }
 
 .offer-content h1 {
-  display: block;
+  display: flex;
   text-align: left;
   font-size: 45.4714px;
   font-weight: 900;
@@ -176,7 +176,6 @@ h1 span {
   font-weight: 400;
   height: 22px;
   width: 400px;
-  margin-bottom: px;
   display: block;
   text-align: start;
   margin-block-end: 13.28px;
@@ -667,7 +666,7 @@ aside h2 {
 .plan-content:last-child {
   grid-column: span 2;
   justify-self: right;
-  margin-right: 92px;
+  margin-right: 28px;
   margin-top: 50px;
 }
 
