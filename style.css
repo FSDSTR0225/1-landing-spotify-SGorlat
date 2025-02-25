@@ -1133,3 +1133,7 @@ ul a {
   padding-left: 120px;
   color: rgb(145, 148, 150);
 }
+
+.nvend ul li a:hover {
+  color: #1ed760;
+}
