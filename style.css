@@ -139,9 +139,6 @@ h1 span {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background-image: url(https://wwwmarketing.scdn.co/static/images/premium/desktop-album-evergreen-1x.png);
-  background-position: center top;
-  background-repeat: no-repeat;
   background: linear-gradient(to bottom, #4d2c3df1, #121212);
   width: 100%;
   height: auto;
